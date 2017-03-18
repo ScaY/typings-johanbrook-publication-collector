@@ -1,0 +1,25 @@
+{
+    "name": "typings-johanbrook-publication-collector",
+    "version": "1.0.0",
+    "description": "TYpe definition for johanbrook:publication-collection",
+    "main": "index.js",
+    "scripts": {
+        "build": "typings bundle --global -o out/main.d.ts",
+        "test": "tsc"
+    },
+    "devDependencies": {
+        "typings": "^1.0.4",
+        "typescript": "^2.2.1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ScaY/typings-johanbrook-publication-collector.git"
+    },
+    "author": "ScaY",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/ScaY/typings-johanbrook-publication-collector/issues"
+    },
+    "homepage": "https://github.com/ScaY/typings-johanbrook-publication-collector#readme",
+
+}

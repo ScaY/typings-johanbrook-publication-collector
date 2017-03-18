@@ -1,0 +1,7 @@
+{
+  "name": "typings-johanbrook-publication-collector",
+  "version": "1.0.0",
+  "main": "main.d.ts",
+  "homepage": "https://github.com/ScaY/typings-johanbrook-publication-collector#readme",
+  "global": true
+}
